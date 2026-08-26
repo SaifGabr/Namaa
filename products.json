@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1111,
+    "name": "Speakers",
+    "price": 99.99,
+    "category": "Electronics",
+    "image": "https://placehold.co/400x300",
+    "description": "Over-ear wireless headphones with noise cancellation and 30-hour battery life."
+  },
+  {
+    "id": 1122,
+    "name": "Running Shoes",
+    "price": 79.5,
+    "category": "Footwear",
+    "image": "https://placehold.co/400x300",
+    "description": "Lightweight running shoes with breathable mesh and cushioned soles."
+  },
+  {
+    "id": 2233,
+    "name": "Blender",
+    "price": 60.0,
+    "category": "Electronics",
+    "image": "https://placehold.co/400x300",
+    "description": "A high-powered blender for smoothies and shakes."
+  },
+  {
+    "id": 3344,
+    "name": "Smart TV",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "https://placehold.co/400x300",
+    "description": "A high-definition smart TV with HDR support and OLED display."
+  },
+  {
+    "id": 4455,
+    "name": "Toothbrush",
+    "price": 8.0,
+    "category": "Personal Care",
+    "image": "https://placehold.co/400x300",
+    "description": "A gentle toothbrush for daily cleaning."
+  },
+  {
+    "id": 5566,
+    "name": "Microphone",
+    "price": 15.5,
+    "category": "Electronics",
+    "image": "https://placehold.co/400x300",
+    "description": "A high-quality microphone for clear audio recording."
+  },
+  {
+    "id": 6677,
+    "name": "Face Wash",
+    "price": 12.0,
+    "category": "Personal Care",
+    "image": "https://placehold.co/400x300",
+    "description": "A gentle face wash for daily cleaning."
+  },
+  {
+    "id": 7788,
+    "name": "Panadol",
+    "price": 9.5,
+    "category": "Healthcare",
+    "image": "https://placehold.co/400x300",
+    "description": "The cure for headaches and body pain, providing fast relief."
+  },
+  {
+    "id": 1133,
+    "name": "Sandals",
+    "price": 35.5,
+    "category": "Footwear",
+    "image": "https://placehold.co/400x300",
+    "description": "Breathable sandals perfect for the summer with mesh and cushioned soles."
+  },
+  {
+    "id": 8899,
+    "name": "Vitamin C Tablets",
+    "price": 14.0,
+    "category": "Healthcare",
+    "image": "https://placehold.co/400x300",
+    "description": "Daily immune support tablets with essential vitamin C."
+  },
+  {
+    "id": 9900,
+    "name": "First Aid Kit",
+    "price": 22.75,
+    "category": "Healthcare",
+    "image": "https://placehold.co/400x300",
+    "description": "A compact kit with bandages, antiseptic, and essential supplies for minor injuries."
+  },
+  {
+    "id": 1010,
+    "name": "Hiking Boots",
+    "price": 89.99,
+    "category": "Footwear",
+    "image": "https://placehold.co/400x300",
+    "description": "Durable, water-resistant boots built for rugged outdoor trails."
+  },
+  {
+    "id": 2020,
+    "name": "Hoodie",
+    "price": 45.0,
+    "category": "Clothing",
+    "image": "https://placehold.co/400x300",
+    "description": "A soft, warm hoodie made from a cotton-polyester blend."
+  },
+  {
+    "id": 3030,
+    "name": "Denim Jacket",
+    "price": 65.0,
+    "category": "Clothing",
+    "image": "https://placehold.co/400x300",
+    "description": "A classic denim jacket suitable for all seasons."
+  },
+  {
+    "id": 4040,
+    "name": "Shampoo",
+    "price": 10.5,
+    "category": "Personal Care",
+    "image": "https://placehold.co/400x300",
+    "description": "A nourishing shampoo for daily hair care."
+  }
+]
